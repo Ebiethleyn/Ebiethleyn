@@ -52,7 +52,6 @@ Jangan ragu untuk menyapa atau berdiskusi lewat platform berikut:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ebiethleyn?igsh=MXY1aDdyY2FvNW5jag==)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@ebiethleyn)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0232gabrieldaten@gmail.com)
-
 <p align="center">
   <i>"Keep coding, keep learning, and stay curious!"</i> ✨
 </p>
