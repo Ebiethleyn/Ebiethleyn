@@ -3,7 +3,7 @@
 ### 👨‍💻 About Me
 I am an Informatics Engineering graduate (S.Kom) from Universitas Indraprasta PGRI with over 2 years of experience in web development. I specialize in full-stack web development using PHP (Native & Laravel) and JavaScript, with a strong focus on end-to-end projects—from database management to automated deployment and hosting. Beyond standard web applications, I have a special interest and expertise in building Decision Support Systems (DSS) using algorithmic models like SMART and SAW.
 
-* 🔭 **I’m currently working on:** Building and refining web-based applications, including E-Commerce platforms and Hotel Reservation systems[cite: 1].
+* 🔭 **I’m currently working on:** Building and refining web-based applications, including E-Commerce platforms and Hotel Reservation systems.
 * 🌱 **I’m currently learning:** Advanced implementation of Decision Support Systems (DSS), modern frontend frameworks like TailwindCSS, and continuous deployment strategies.
 * 👯 **I’m looking to collaborate on:** Web development projects, Laravel-based systems, or open-source Decision Support System applications.
 * 💬 **Ask me about:** PHP, Laravel, MySQL, Git/GitHub, Website Deployment, and DSS Methodology (SMART & SAW).
