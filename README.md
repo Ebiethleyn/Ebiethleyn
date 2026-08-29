@@ -1,7 +1,7 @@
 # Hi there, I'm Gabriel! 👋
 
 ### 👨‍💻 About Me
-I am an Informatics Engineering graduate (S.Kom) from Universitas Indraprasta PGRI with over 2 years of experience in web development. I specialize in full-stack web development using PHP (Native & Laravel) and JavaScript, with a strong focus on end-to-end projects—from database management to automated deployment and hosting. Beyond standard web applications, I have a special interest and expertise in building Decision Support Systems (DSS) using algorithmic models like SMART and SAW.
+I am an Informatics Engineering graduate (S.Kom) from Universitas Indraprasta PGRI with over 2 years of experience in web development. I specialize in full-stack web development using PHP (Native & Laravel), JavaScript, and Vue.js 3, with a strong focus on end-to-end projects—from database management to automated deployment and hosting. I'm also expanding my skill set into backend development with Go (Golang). Beyond standard web applications, I have a special interest and expertise in building Decision Support Systems (DSS) using algorithmic models like SMART and SAW.
 
 * 🔭 **I’m currently working on:** Building and refining web-based applications, including E-Commerce platforms and Hotel Reservation systems.
 * 🌱 **I’m currently learning:** Advanced implementation of Decision Support Systems (DSS), modern frontend frameworks like TailwindCSS, and continuous deployment strategies.
@@ -11,8 +11,6 @@ I am an Informatics Engineering graduate (S.Kom) from Universitas Indraprasta PG
 ---
 
 ### 🛠️ Tech Stack & Tools
-
-Visualisasikan keahlian Anda menggunakan badge di bawah ini (bisa Anda hapus/tambah sesuai kebutuhan):
 
 #### Languages & Frameworks
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,7 +36,7 @@ Visualisasikan keahlian Anda menggunakan badge di bawah ini (bisa Anda hapus/tam
 
 ### 📊 GitHub Stats
 
-Berikut adalah statistik otomatis dari aktivitas GitHub saya:
+Aktivitas GitHub saya:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ebiethleyn&show_icons=true&theme=radical&hide_border=true" alt="Ebiethleyn's GitHub Stats" width="48%" />
