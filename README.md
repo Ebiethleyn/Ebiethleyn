@@ -27,6 +27,7 @@ I am an Informatics Engineering graduate (S.Kom) from Universitas Indraprasta PG
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Laravel Herd](https://img.shields.io/badge/Laravel_Herd-000000?style=for-the-badge&logo=laravel&logoColor=white)
 ![Laragon](https://img.shields.io/badge/Laragon-0E2E3B?style=for-the-badge&logo=laragon&logoColor=fff)
@@ -48,6 +49,7 @@ Aktivitas GitHub saya:
 ### 📫 Connect with me:
 Jangan ragu untuk menyapa atau berdiskusi lewat platform berikut:
 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285280064142)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-daten-leyn-57376320a)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ebiethleyn?igsh=MXY1aDdyY2FvNW5jag==)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@ebiethleyn)
